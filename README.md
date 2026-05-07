@@ -1,4 +1,4 @@
-# Restaurant Management System (CafeSystem Group7)
+# Restaurant Management System (CafeSystem )
 
 ## Overview
 Windows Desktop Application built using VB.NET Windows Forms.  
